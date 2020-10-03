@@ -76,7 +76,7 @@ int main(int argc, char *argv[])
 
         // render
         // ------
-        glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+        glClearColor(0.065f, 0.07f, 0.09f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT);
         LDJAM47.Render();
 
